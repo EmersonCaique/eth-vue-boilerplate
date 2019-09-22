@@ -1,4 +1,4 @@
-# eth-election
+# Vue boilerplate for Dapps with web3
 
 ## Project setup
 ```
